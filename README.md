@@ -9,7 +9,7 @@ Autores:
 Utilización de filtros morfológicos en la detección de patrones en imágenes. Se utilizó la transformación *hit or miss* para
 detectar bifurcaciones en un patrón dado.
 
-La solución se encuentra en el archivo `hw3_hit_or_miss.ipynb'.
+La solución se encuentra en el archivo `hw3_hit_or_miss.ipynb`.
 
 ## Requisitos
 
